@@ -24,6 +24,7 @@ Spezifikation und Entwicklung einer digitalen Lösung (**Online-Möbelkonfigurat
 Zur eindeutigen Abgrenzung des zu entwickelnden Systems von seiner Umwelt (Systemgrenze) wurde das folgende Kontextdiagramm erstellt:
 
 ![Kontextdiagramm](./assets/Kontextdiagramm.png.png)
+
 *[Editable Draw.io Source File](./assets/Kontextdiagramm.drawio)
 
 ### Methodische Erläuterung nach IREB
