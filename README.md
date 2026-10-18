@@ -23,7 +23,7 @@ Spezifikation und Entwicklung einer digitalen Lösung (**Online-Möbelkonfigurat
 
 Zur eindeutigen Abgrenzung des zu entwickelnden Systems von seiner Umwelt (Systemgrenze) wurde das folgende Kontextdiagramm erstellt:
 
-![Kontextdiagramm]
+![Kontextdiagramm]./assets/Kontextdiagramm.png.png
 
 ### Methodische Erläuterung nach IREB
 * **Systemgrenze:** Der Kreis in der Mitte umfasst das Gesamtsystem (Online-Konfigurator inkl. ERP-Anbindung).
