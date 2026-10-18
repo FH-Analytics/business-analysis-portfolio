@@ -39,10 +39,10 @@ Zur eindeutigen Abgrenzung des zu entwickelnden Systems von seiner Umwelt (Syste
 Um sicherzustellen, dass alle relevanten Anforderungen erfasst und Stakeholder angemessen eingebunden werden, wurde eine Stakeholder-Analyse durchgeführt.
 
 ### Stakeholderliste
-![Stakeholderliste](./assets/stakeholderliste.png)
+![Stakeholderliste](./assets/StakeholderListe.png)
 
 ### Stakeholder-Matrix (Einfluss vs. Interesse)
-![Stakeholder-Matrix](./assets/stakeholdermatrix.png)
+![Stakeholder-Matrix](./assets/StakeholderMatrix.png)
 
 * **Eng einbinden (Manage Closely):** Geschäftsführung (Thomas Weber) & IT-Entwicklung – besitzen hohe Entscheidungsgewalt und hohes Projektinteresse.
 * **Informiert halten / Beteiligen (Keep Informed):** Vertrieb, Werkstatt, Lager & Kunde – sind stark vom System betroffen, steuern das Projekt jedoch nicht direkt.
