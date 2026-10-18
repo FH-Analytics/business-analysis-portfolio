@@ -33,3 +33,16 @@ Zur eindeutigen Abgrenzung des zu entwickelnden Systems von seiner Umwelt (Syste
   * **Kunde:** Gibt Konfigurationsdaten ein und erhält Live-Preise sowie Auftragsbestätigungen.
   * **Werkstatt:** Empfängt die automatisiert generierten Fertigungsdaten zur Produktion.
 * **Datenflüsse:** Die Pfeile repräsentieren ausschließlich reinen Informations- und Datenfluss 
+
+## 3. Stakeholder-Analyse & Matrix (IREB-Standard)
+
+Um sicherzustellen, dass alle relevanten Anforderungen erfasst und Stakeholder angemessen eingebunden werden, wurde eine Stakeholder-Analyse durchgeführt.
+
+### Stakeholderliste
+![Stakeholderliste](./assets/stakeholderliste.png)
+
+### Stakeholder-Matrix (Einfluss vs. Interesse)
+![Stakeholder-Matrix](./assets/stakeholdermatrix.png)
+
+* **Eng einbinden (Manage Closely):** Geschäftsführung (Thomas Weber) & IT-Entwicklung – besitzen hohe Entscheidungsgewalt und hohes Projektinteresse.
+* **Informiert halten / Beteiligen (Keep Informed):** Vertrieb, Werkstatt, Lager & Kunde – sind stark vom System betroffen, steuern das Projekt jedoch nicht direkt.
