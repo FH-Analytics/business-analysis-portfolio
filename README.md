@@ -2,6 +2,8 @@
 # Portfolio-Projekt: Digitaler Möbel-Konfigurator (HolzArt Manufaktur GmbH)
 # Portfolio-Projekt: Business Analyse & Requirements Engineering (IREB)
 
+**Projekt-Glossar:** Das vollständige Glossar mit allen Fachbegriffen findest du in der [GLOSSARY.md](./GLOSSARY.md).
+
 Dieses Portfolio-Projekt entstand im Rahmen der Vorbereitung auf die IREB-Zertifizierung. Die Aufgabenstellung wird fortlaufend durch praktische Methoden des Requirements Engineerings gelöst, um eine vollständige Anforderungsspezifikation nach IREB-Standard zu erstellen.
 
 ---
