@@ -27,7 +27,7 @@ Zur eindeutigen Abgrenzung des zu entwickelnden Systems von seiner Umwelt (Syste
 
 ![Kontextdiagramm](./assets/Kontextdiagramm.png.png)
 
-*[Editable Draw.io Source File](./assets/Kontextdiagramm.drawio)
+[Editable Draw.io Source File](./assets/Kontextdiagramm.drawio)
 
 ### Methodische Erläuterung nach IREB
 * **Systemgrenze:** Der Kreis in der Mitte umfasst das Gesamtsystem (Online-Konfigurator inkl. ERP-Anbindung).
@@ -42,6 +42,40 @@ Um sicherzustellen, dass alle relevanten Anforderungen erfasst und Stakeholder a
 
 ### Stakeholderliste
 ![Stakeholderliste](./assets/StakeholderListe.png)
+
+# Stakeholder-Analyse
+
+## 1. Zweck der Stakeholderliste 
+
+> Die Stakeholderliste dient als vorgelagerte Bestandsaufnahme, um alle irrelevanten und relevanten Personen, Rollen und Schnittstellen systematisch zu erfassen. Sie stellt sicher, dass keine Anforderungen oder Akzeptanzkriterien übersehen werden.
+
+---
+
+## 2. Kriterien der Erfassung (Was bedeuten die Spalten?)
+
+| Kriterium | Beschreibung |
+| :--- | :--- |
+| **Erwartungen** | Welche Ziele und Anforderungen verbindet die Rolle mit dem System? |
+| **Einstellung (Haltung)** | Wie steht der Stakeholder dem Projekt gegenüber? *(Alle Beteiligten stehen dem System positiv bzw. neutral gegenüber, da es Abläufe vereinfacht)* |
+| **Einfluss (Projektmacht)** | Wie stark kann der Stakeholder Entscheidungen steuern oder blockieren? |
+
+---
+
+## 3. Methodische Erkenntnisse aus der Tabelle
+
+> [!IMPORTANT]  
+> **Das Wichtigste auf einen Blick**
+
+*  **Entscheidungsträger mit starkem Einfluss:**  
+  * **Geschäftsführung (Thomas Weber)** und **IT-Entwicklung** besitzen direkte Entscheidungsgewalt über Richtlinien, Ressourcen und Architektur.
+
+*  **Beteiligte mit operativem Einfluss:**  
+  * Der **Vertrieb** hat mittleren Einfluss (`0`), da seine Schnittstellenanforderungen für die Kundenakzeptanz entscheidend sind.
+
+*  **Endanwender & Betroffene (geringer direkter Einfluss):**  
+  * **Werkstatt**, **Lager** und **Endkunden** sind direkt vom System betroffen und stellen Kernanforderungen (z. B. fehlerfreie Fertigungsdaten, einfache Bedienung), steuern die Projektentscheidungen jedoch nicht direkt.
+
+## 4. Aufgrund dieser Liste wurde eine Stakeholder-Matrix angefertigt
 
 ### Stakeholder-Matrix (Einfluss vs. Interesse)
 ![Stakeholder-Matrix](./assets/StakeholderMatrix.png)
